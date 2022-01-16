@@ -2,4 +2,4 @@ hello
 how r u?
 what are you doing?
 had your lunch?
-
+a=10;
